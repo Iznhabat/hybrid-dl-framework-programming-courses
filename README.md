@@ -49,9 +49,10 @@ Target 3: Data Structures
 Each target is formulated as a binary classification problem (Pass / Fail).
 
 -------------------------------------
-Data File name:
+Data File path:
 -------------------------------------
-path: https://github.com/Iznhabat007/hybrid-dl-framework-programming-courses/tree/main/Hybrid Data.xlsx
+https://github.com/Iznhabat007/hybrid-dl-framework-programming-courses/tree/main/Hybrid Data.xlsx
+
 -------------------------------------
 Data Availability
 -------------------------------------
