@@ -51,7 +51,7 @@ Each target is formulated as a binary classification problem (Pass / Fail).
 -------------------------------------
 Data File path:
 -------------------------------------
-https://github.com/Iznhabat007/hybrid-dl-framework-programming-courses/tree/main/Hybrid Data.xlsx
+https://github.com/Iznhabat/hybrid-dl-framework-programming-courses/blob/main/Hybrid%20Data.xlsx
 
 -------------------------------------
 Data Availability
